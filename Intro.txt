@@ -1,0 +1,39 @@
+Overview of a Data Analytics project
+
+1) Understand the usecase
+    
+    Business Understanding
+    
+    Product ownwer sits with a business Analyst to get all the requirements for thr project. 
+    This project requirements is taken to a data analyst /data scientist
+    We ask questions like: where can we get the data from etc, 3rd party data, company data etc
+
+2) Run the ETL pipeline
+
+    Extract, Transform and Load
+    
+    Helps get the data from the sources to the format we need it in. This task is done by Data Engineer.
+    Raw data is processed and transformed and loaded in a space which can be consumed for ML/analytics reports.
+    
+    Raw Data could be available in DB's - SQL,NOSQL or Special dbs like Hive or Hadoop or a datalake etc. 
+    
+    
+
+3) EDA
+
+    Exploratory Data Analysis. 
+    Data Analyst brings out insights through visuals and code and analyses the data to answer key questions. 
+    Q) Top 5 products in each location
+    Q) Revenue info per product category
+    .
+    .
+    .
+    
+    Data can be Visualized using BI tools or charts.
+
+
+
+4) Conclusions from the Analysis
+
+- Analysis in file
+
